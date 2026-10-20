@@ -33,12 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.0.15
+## Latest release: 1.0.16
 
-- Uninstalling TANDUL now also removes its saved settings, so a reinstall starts fresh.
-- The till and the admin panel show a Get app button when opened in a Windows browser.
+- In full screen (F11) the top bar's clock and buttons move over to the right edge.
+- The orange Returns button in the dark theme matches TANDUL's orange.
 
 ## All changes
+
+## 1.0.16
+
+- In full screen (F11) the top bar's clock and buttons move over to the right edge.
+- The orange Returns button in the dark theme matches TANDUL's orange.
 
 ## 1.0.15
 
