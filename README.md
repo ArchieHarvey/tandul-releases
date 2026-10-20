@@ -6,7 +6,7 @@ admin panel). This page holds only the installer and its update files. TANDUL's 
 ## Install
 
 1. Open the [latest release](https://github.com/ArchieHarvey/tandul-releases/releases/latest) and download
-   `TANDUL-Setup-1.0.9.exe`.
+   `TANDUL-Setup-1.0.10.exe`.
 2. Run it. Windows may warn about an "unknown publisher" because the installer is not code-signed yet:
    choose **More info**, then **Run anyway**.
 3. When TANDUL opens, enter the shop's server address and choose whether this machine is the till or the
@@ -18,13 +18,19 @@ Installed copies find new versions here by themselves, download them quietly, an
 in the till, the tray menu, or **Check for updates**). You can also choose to install tonight at 2 AM. A till
 is never restarted in the middle of the day on its own.
 
-## Latest release: 1.0.9
+## Latest release: 1.0.10
 
-- Printers can be set up from the tray menu or About without signing in: receipt printer, paper size, cash drawer and label printer, with a test receipt.
-- The You're up to date window shows the big version number and a Check again button.
-- TANDUL's windows share one look, with an all-orange TANDUL wordmark, and About fits its content.
+- The grey Windows title bar is gone: the top bar of the till and the admin panel is the title bar, and the window buttons match the light or dark theme.
+- The About window opens in the middle, shows the app version as plain text, and every row looks the same.
+- In Windows' list of installed apps TANDUL now shows as just TANDUL, published by theAscenders.
 
 ## All changes
+
+## 1.0.10
+
+- The grey Windows title bar is gone: the top bar of the till and the admin panel is the title bar, and the window buttons match the light or dark theme.
+- The About window opens in the middle, shows the app version as plain text, and every row looks the same.
+- In Windows' list of installed apps TANDUL now shows as just TANDUL, published by theAscenders.
 
 ## 1.0.9
 
