@@ -9,6 +9,25 @@ The program runs on Electron (MIT licence) and Chromium (BSD-style and other lic
 Their full notices are installed with the program: LICENSE.electron.txt and LICENSES.chromium.html in the
 program folder.
 
+Electron includes FFmpeg, which is licensed under the GNU Lesser General Public Licence (LGPL) 2.1 or later.
+You may obtain its source code, and replace the FFmpeg library (ffmpeg.dll in the program folder) with your
+own build, as that licence allows. Source: https://ffmpeg.org/ and https://github.com/electron/electron
+Chromium source: https://chromium.googlesource.com/chromium/src
+Nothing in the TANDUL licence limits the rights these licences give you for those components.
+
+========================================================================
+NSIS installer
+========================================================================
+The installer and uninstaller are built with NSIS (the zlib/libpng licence, with some parts under BSD-style
+and Common Public licences). See https://nsis.sourceforge.io/License
+
+========================================================================
+The shop web pages
+========================================================================
+The pages the app shows are served by the shop's own server and use React (MIT), lucide-react (ISC) and
+html5-qrcode (Apache-2.0, https://github.com/mebjas/html5-qrcode). Their licences are reproduced below
+where they are included in this installer's own dependencies; otherwise see the links above.
+
 ========================================================================
 Plus Jakarta Sans (font), SIL Open Font License 1.1
 ========================================================================

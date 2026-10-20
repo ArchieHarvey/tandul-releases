@@ -6,7 +6,7 @@ admin panel). This page holds only the installer and its update files. TANDUL's 
 ## Install
 
 1. Open the [latest release](https://github.com/ArchieHarvey/tandul-releases/releases/latest) and download
-   `TANDUL-Setup-1.0.12.exe`.
+   `TANDUL-Setup-1.0.13.exe`.
 2. Run it. Windows may warn about an "unknown publisher" because the installer is not code-signed yet:
    choose **More info**, then **Run anyway**.
 3. When TANDUL opens, enter the shop's server address and choose whether this machine is the till or the
@@ -21,20 +21,31 @@ is never restarted in the middle of the day on its own.
 ## Terms and privacy
 
 TANDUL is proprietary software owned by theAscenders. The installer shows the terms before it installs, and
-they are in [LICENSE](LICENSE). Other people's software that it includes is listed in
+they are in [LICENSE.md](LICENSE.md). Other people's software that it includes is listed in
 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
-The installed app keeps only the shop server's address and this machine's printer choices on the computer.
-Checking for updates contacts GitHub, which can see the computer's internet address. Nothing about your shop is
-sent here.
+What the app keeps on the computer: the shop server's address, which portal this machine is, its printer
+choices, and the version it last ran with (to show "What's new"). The shop's own pages keep a sign-in session
+and a few display preferences (theme, printer) in the app's browser storage, and a receipt being printed is
+written to a temporary file that is deleted afterwards.
 
-## Latest release: 1.0.12
+What the app connects to: the shop's own server, and GitHub to look for and download updates (GitHub can see
+the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
+shop is sent to GitHub.
 
-- The installer now shows TANDUL's terms and asks you to agree before it installs.
-- The window buttons in the top corner have no background of their own and sit directly on the page.
-- The animated dots in the update windows have a little space before them.
+## Latest release: 1.0.13
+
+- The installer and uninstaller now have TANDUL's own look instead of the default blue artwork.
+- The terms shown at install are updated, and the privacy notes now list exactly what the app keeps and connects to.
+- The list of other people's software in the installer now covers every part the app includes.
 
 ## All changes
+
+## 1.0.13
+
+- The installer and uninstaller now have TANDUL's own look instead of the default blue artwork.
+- The terms shown at install are updated, and the privacy notes now list exactly what the app keeps and connects to.
+- The list of other people's software in the installer now covers every part the app includes.
 
 ## 1.0.12
 
