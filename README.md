@@ -33,12 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.0.16
+## Latest release: 1.0.17
 
-- In full screen (F11) the top bar's clock and buttons move over to the right edge.
-- The orange Returns button in the dark theme matches TANDUL's orange.
+- A full-screen button in the top bar of the till and the admin panel (F11 still works).
+- In full screen the window buttons are hidden and the clock sits at the right edge; in a normal window they no longer overlap it.
 
 ## All changes
+
+## 1.0.17
+
+- A full-screen button in the top bar of the till and the admin panel (F11 still works).
+- In full screen the window buttons are hidden and the clock sits at the right edge; in a normal window they no longer overlap it.
 
 ## 1.0.16
 
