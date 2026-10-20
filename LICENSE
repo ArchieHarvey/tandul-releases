@@ -1,0 +1,32 @@
+TANDUL: software licence
+
+Copyright (c) 2026 theAscenders. All rights reserved.
+
+TANDUL (the "Software") is proprietary software owned by theAscenders (the "Owner"). By installing or using the Software you agree to these terms. If you do not agree, do not install or use it.
+
+1. Permission
+The Owner grants you a personal, non-exclusive, non-transferable licence to install and use the Software on computers of the shop or business that the Owner has authorised you to work for, and only to run that business.
+
+2. What you may not do
+You may not copy or redistribute the Software, sell, rent, lend or publish it, change it, or try to get at its source code or reverse engineer it, except to the extent the law allows you to regardless of this agreement. You may not remove or hide any copyright or ownership notice.
+
+3. Ownership
+The Software, its name, logo and artwork remain the property of the Owner. Nothing in this licence transfers ownership of any of it to you.
+
+4. Your data
+A shop's information is kept on that shop's own TANDUL server. The installed app keeps only the server address and the printer choices on this computer. When it checks for updates it contacts GitHub, which can see this computer's internet address.
+
+5. No warranty
+The Software is provided "as is", without any promise that it is free of errors or that it will suit a particular purpose. You are responsible for checking the figures it produces, for keeping backups of your shop's data, and for meeting your own tax and legal duties.
+
+6. Limit of liability
+To the extent the law allows, the Owner is not liable for any loss of profit, loss of data or other indirect or consequential loss that comes from using or being unable to use the Software.
+
+7. Other people's software
+TANDUL includes open-source and other third-party components, each under its own licence. Their notices are in the file THIRD_PARTY_NOTICES.txt installed with the Software.
+
+8. Ending
+This licence ends automatically if you break these terms. When it ends, stop using the Software and delete your copies.
+
+9. Contact
+admin@tandul.in

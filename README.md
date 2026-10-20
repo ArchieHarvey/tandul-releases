@@ -6,7 +6,7 @@ admin panel). This page holds only the installer and its update files. TANDUL's 
 ## Install
 
 1. Open the [latest release](https://github.com/ArchieHarvey/tandul-releases/releases/latest) and download
-   `TANDUL-Setup-1.0.11.exe`.
+   `TANDUL-Setup-1.0.12.exe`.
 2. Run it. Windows may warn about an "unknown publisher" because the installer is not code-signed yet:
    choose **More info**, then **Run anyway**.
 3. When TANDUL opens, enter the shop's server address and choose whether this machine is the till or the
@@ -18,12 +18,29 @@ Installed copies find new versions here by themselves, download them quietly, an
 in the till, the tray menu, or **Check for updates**). You can also choose to install tonight at 2 AM. A till
 is never restarted in the middle of the day on its own.
 
-## Latest release: 1.0.11
+## Terms and privacy
 
-- The update download screen shows a large percentage, how much has downloaded, and about how long is left, and says you can keep working.
-- The update windows have even padding and no longer lose their bottom edge.
+TANDUL is proprietary software owned by theAscenders. The installer shows the terms before it installs, and
+they are in [LICENSE](LICENSE). Other people's software that it includes is listed in
+[THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
+
+The installed app keeps only the shop server's address and this machine's printer choices on the computer.
+Checking for updates contacts GitHub, which can see the computer's internet address. Nothing about your shop is
+sent here.
+
+## Latest release: 1.0.12
+
+- The installer now shows TANDUL's terms and asks you to agree before it installs.
+- The window buttons in the top corner have no background of their own and sit directly on the page.
+- The animated dots in the update windows have a little space before them.
 
 ## All changes
+
+## 1.0.12
+
+- The installer now shows TANDUL's terms and asks you to agree before it installs.
+- The window buttons in the top corner have no background of their own and sit directly on the page.
+- The animated dots in the update windows have a little space before them.
 
 ## 1.0.11
 
