@@ -6,7 +6,7 @@ admin panel). This page holds only the installer and its update files. TANDUL's 
 ## Install
 
 1. Open the [latest release](https://github.com/ArchieHarvey/tandul-releases/releases/latest) and download
-   `TANDUL-Setup-1.0.13.exe`.
+   `TANDUL-Setup-1.0.14.exe`.
 2. Run it. Windows may warn about an "unknown publisher" because the installer is not code-signed yet:
    choose **More info**, then **Run anyway**.
 3. When TANDUL opens, enter the shop's server address and choose whether this machine is the till or the
@@ -33,13 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.0.13
+## Latest release: 1.0.14
 
-- The installer and uninstaller now have TANDUL's own look instead of the default blue artwork.
-- The terms shown at install are updated, and the privacy notes now list exactly what the app keeps and connects to.
-- The list of other people's software in the installer now covers every part the app includes.
+- The installer is now one click: it installs straight away and opens TANDUL, with no setup pages.
+- The terms of use are shown the first time TANDUL opens, with Agree or Decline.
 
 ## All changes
+
+## 1.0.14
+
+- The installer is now one click: it installs straight away and opens TANDUL, with no setup pages.
+- The terms of use are shown the first time TANDUL opens, with Agree or Decline.
 
 ## 1.0.13
 
