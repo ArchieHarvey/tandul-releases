@@ -33,18 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.0.20
+## Latest release: 1.10.21.1
 
-- TANDUL opens by itself when Windows starts. Turn it off from the tray menu or the taskbar's right-click list.
-- If the page crashes or freezes, TANDUL says what happened and reloads it by itself.
-- The offline screen keeps trying and opens the till again as soon as the shop server answers.
-- Setup no longer asks for a server address: pick the till or the admin panel. A different address is under a small link, with a Test connection button.
-- The window comes back at the same size and place, and the screen stays awake while a shift is open.
-- When a receipt does not print, the till says why (offline, out of paper, cover open) with a Retry button.
-- The Printers window shows a status light for each printer.
-- About shows the terms you agreed to, with a link to read them, and Copy diagnostics for support.
+- Versions are now dates: year.month.day.release, such as 1.10.21.1 for the first release of 21 October (year 1 is 2026).
+- The What's new window fits its content, so the space above and below stays even however long the list is.
 
 ## All changes
+
+## 1.10.21.1
+
+- Versions are now dates: year.month.day.release, such as 1.10.21.1 for the first release of 21 October (year 1 is 2026).
+- The What's new window fits its content, so the space above and below stays even however long the list is.
 
 ## 1.0.20
 
