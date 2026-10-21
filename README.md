@@ -25,7 +25,7 @@ they are in [LICENSE.md](LICENSE.md). Other people's software that it includes i
 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
 What the app keeps on the computer: the shop server's address, which portal this machine is, its printer
-choices, and the version it last ran with (to show "What's new"). The shop's own pages keep a sign-in session
+choices, the version it last ran with (to show "What's new"), a small log of what the app itself did, and, if it ever crashes, a crash dump file. None of these leave the computer. The shop's own pages keep a sign-in session
 and a few display preferences (theme, printer) in the app's browser storage, and a receipt being printed is
 written to a temporary file that is deleted afterwards.
 
@@ -33,14 +33,21 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.21.2
+## Latest release: 1.10.21.3
 
-- TANDUL sits on the same line as the close button at the top of the small windows.
-- Errors from the till's own screen are written to the diagnostics log on this computer.
-- Diagnostics now show the shop's local time and hide the Windows user name and other private details.
-- Save diagnostics to a file from About or the tray menu, to send on for support.
+- A release found to be bad can be held back from the server, so no till downloads or installs it.
+- If an update does not install, TANDUL says so on the next start instead of staying silent.
+- An update chosen for 2 AM that was missed because the till was off is installed just after the till is next started.
+- If TANDUL crashes, a crash file is saved on this computer only, and the diagnostics say whether the last run ended normally.
 
 ## All changes
+
+## 1.10.21.3
+
+- A release found to be bad can be held back from the server, so no till downloads or installs it.
+- If an update does not install, TANDUL says so on the next start instead of staying silent.
+- An update chosen for 2 AM that was missed because the till was off is installed just after the till is next started.
+- If TANDUL crashes, a crash file is saved on this computer only, and the diagnostics say whether the last run ended normally.
 
 ## 1.10.21.2
 
