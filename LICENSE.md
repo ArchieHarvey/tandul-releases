@@ -127,11 +127,13 @@ If a provision is held unenforceable, the remaining provisions will continue to 
 
 A failure to enforce a provision does not automatically waive the right to enforce it later.
 
-## 13. Governing law
+## 13. Governing Law and Jurisdiction
 
-This Agreement is governed by the laws of India, subject to applicable mandatory legal protections.
+This Agreement shall be governed by and construed in accordance with the laws of India.
 
-Any dispute will be brought before a court having jurisdiction under applicable Indian law.
+Subject to applicable law, the competent courts at Kolkata, West Bengal, India, shall have jurisdiction over disputes arising out of or in connection with this Agreement.
+
+Nothing in this clause excludes any mandatory legal protection or remedy available under applicable law.
 
 ## 14. Contact
 

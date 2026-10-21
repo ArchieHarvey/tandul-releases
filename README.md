@@ -33,12 +33,19 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.0.18
+## Latest release: 1.0.19
 
-- The terms of use open in a window of their own before TANDUL starts, with nothing behind them.
-- You have to scroll to the end of the terms before I agree can be pressed, and the terms are laid out with a heading for each section.
+- The governing law and jurisdiction clause of the terms of use now names the courts at Kolkata.
+- Because the terms changed, TANDUL asks you to agree to them again the next time it starts.
+- Declining the terms closes TANDUL cleanly instead of showing an error.
 
 ## All changes
+
+## 1.0.19
+
+- The governing law and jurisdiction clause of the terms of use now names the courts at Kolkata.
+- Because the terms changed, TANDUL asks you to agree to them again the next time it starts.
+- Declining the terms closes TANDUL cleanly instead of showing an error.
 
 ## 1.0.18
 
