@@ -33,12 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.0.17
+## Latest release: 1.0.18
 
-- A full-screen button in the top bar of the till and the admin panel (F11 still works).
-- In full screen the window buttons are hidden and the clock sits at the right edge; in a normal window they no longer overlap it.
+- The terms of use open in a window of their own before TANDUL starts, with nothing behind them.
+- You have to scroll to the end of the terms before I agree can be pressed, and the terms are laid out with a heading for each section.
 
 ## All changes
+
+## 1.0.18
+
+- The terms of use open in a window of their own before TANDUL starts, with nothing behind them.
+- You have to scroll to the end of the terms before I agree can be pressed, and the terms are laid out with a heading for each section.
 
 ## 1.0.17
 
