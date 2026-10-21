@@ -33,12 +33,21 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.21.1
+## Latest release: 1.10.21.2
 
-- Versions are now dates: year.month.day.release, such as 1.10.21.1 for the first release of 21 October (year 1 is 2026).
-- The What's new window fits its content, so the space above and below stays even however long the list is.
+- TANDUL sits on the same line as the close button at the top of the small windows.
+- Errors from the till's own screen are written to the diagnostics log on this computer.
+- Diagnostics now show the shop's local time and hide the Windows user name and other private details.
+- Save diagnostics to a file from About or the tray menu, to send on for support.
 
 ## All changes
+
+## 1.10.21.2
+
+- TANDUL sits on the same line as the close button at the top of the small windows.
+- Errors from the till's own screen are written to the diagnostics log on this computer.
+- Diagnostics now show the shop's local time and hide the Windows user name and other private details.
+- Save diagnostics to a file from About or the tray menu, to send on for support.
 
 ## 1.10.21.1
 
