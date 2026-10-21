@@ -33,14 +33,19 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.21.3
+## Latest release: 1.10.22.1
 
-- A release found to be bad can be held back from the server, so no till downloads or installs it.
-- If an update does not install, TANDUL says so on the next start instead of staying silent.
-- An update chosen for 2 AM that was missed because the till was off is installed just after the till is next started.
-- If TANDUL crashes, a crash file is saved on this computer only, and the diagnostics say whether the last run ended normally.
+- TANDUL opens with a start-up animation: six flipping letter tiles spell TANDUL while it connects to the shop. Click or press a key to skip it.
+- The line under the tiles says what is really happening: starting, connecting, ready, or that the shop cannot be reached yet.
+- With Windows set to reduce motion, the letters simply appear.
 
 ## All changes
+
+## 1.10.22.1
+
+- TANDUL opens with a start-up animation: six flipping letter tiles spell TANDUL while it connects to the shop. Click or press a key to skip it.
+- The line under the tiles says what is really happening: starting, connecting, ready, or that the shop cannot be reached yet.
+- With Windows set to reduce motion, the letters simply appear.
 
 ## 1.10.21.3
 
