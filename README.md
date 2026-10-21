@@ -33,13 +33,21 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.1
+## Latest release: 1.10.22.2
 
-- TANDUL opens with a start-up animation: six flipping letter tiles spell TANDUL while it connects to the shop. Click or press a key to skip it.
-- The line under the tiles says what is really happening: starting, connecting, ready, or that the shop cannot be reached yet.
-- With Windows set to reduce motion, the letters simply appear.
+- The start-up animation can only be skipped with a click or Esc, Enter or Space, and it runs on real time so it always finishes properly.
+- The setup screen has even spacing, with messages shown under the buttons.
+- The update window no longer ends the version with a full stop, so it cannot be mistaken for part of the number.
+- Windows now calls the program TANDUL in the taskbar list and Task Manager.
 
 ## All changes
+
+## 1.10.22.2
+
+- The start-up animation can only be skipped with a click or Esc, Enter or Space, and it runs on real time so it always finishes properly.
+- The setup screen has even spacing, with messages shown under the buttons.
+- The update window no longer ends the version with a full stop, so it cannot be mistaken for part of the number.
+- Windows now calls the program TANDUL in the taskbar list and Task Manager.
 
 ## 1.10.22.1
 
