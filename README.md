@@ -33,14 +33,19 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.2
+## Latest release: 1.10.22.3
 
-- The start-up animation can only be skipped with a click or Esc, Enter or Space, and it runs on real time so it always finishes properly.
-- The setup screen has even spacing, with messages shown under the buttons.
-- The update window no longer ends the version with a full stop, so it cannot be mistaken for part of the number.
-- Windows now calls the program TANDUL in the taskbar list and Task Manager.
+- If the shop's server is down and answers with an error page (such as a tunnel error), TANDUL shows the reconnecting screen and opens the till again by itself when the server is back.
+- When checking for updates fails, the window now says why (no internet, GitHub not answering, update files not ready, or unexpected), with Show details and Copy diagnostics.
+- The start-up animation is skipped only by clicking Click to skip (or pressing Esc), not by clicking anywhere.
 
 ## All changes
+
+## 1.10.22.3
+
+- If the shop's server is down and answers with an error page (such as a tunnel error), TANDUL shows the reconnecting screen and opens the till again by itself when the server is back.
+- When checking for updates fails, the window now says why (no internet, GitHub not answering, update files not ready, or unexpected), with Show details and Copy diagnostics.
+- The start-up animation is skipped only by clicking Click to skip (or pressing Esc), not by clicking anywhere.
 
 ## 1.10.22.2
 
