@@ -33,14 +33,21 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.4
+## Latest release: 1.10.22.5
 
-- The setup screen is simpler: choose the till or the admin panel, and a line shows exactly where this machine will connect (for example pos.tandul.in). Click the address to type a different server.
-- Connect checks the shop before saving anything, says plainly what went wrong, and no longer leaves a wrong address saved after a failed try.
-- The Test connection button is gone, since Connect does the same check.
-- On the start-up animation, Click to skip is now plain text, and the dots after Connecting to the shop have more space.
+- The small windows now stack properly: a window opened from another stays in front of it, a click on the dimmed till brings forward the right one, and all of them step back when you switch to another program.
+- In About, Change server is now a small link next to the address, and the three buttons sit on one row.
+- The round marks in the update windows are centred.
+- The taskbar and its right-click list now say TANDUL instead of an old description, and the old cached name is cleared once.
 
 ## All changes
+
+## 1.10.22.5
+
+- The small windows now stack properly: a window opened from another stays in front of it, a click on the dimmed till brings forward the right one, and all of them step back when you switch to another program.
+- In About, Change server is now a small link next to the address, and the three buttons sit on one row.
+- The round marks in the update windows are centred.
+- The taskbar and its right-click list now say TANDUL instead of an old description, and the old cached name is cleared once.
 
 ## 1.10.22.4
 
