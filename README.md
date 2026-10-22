@@ -33,11 +33,19 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.7
+## Latest release: 1.10.22.8
 
-- Change server now opens the setup screen with the address this machine already uses, instead of resetting to the default. The saved address is only replaced once a new one has been checked and works.
+- Clicking an older small window (such as About behind Latest version) now brings it forward and keeps it there, instead of flashing and falling back.
+- Closing a small window passes the focus to the next one in front, so the others stay put.
+- About says Terms agreed on with the day you agreed. A machine that agreed before the day was recorded shows the version of the terms instead.
 
 ## All changes
+
+## 1.10.22.8
+
+- Clicking an older small window (such as About behind Latest version) now brings it forward and keeps it there, instead of flashing and falling back.
+- Closing a small window passes the focus to the next one in front, so the others stay put.
+- About says Terms agreed on with the day you agreed. A machine that agreed before the day was recorded shows the version of the terms instead.
 
 ## 1.10.22.7
 
