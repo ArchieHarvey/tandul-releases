@@ -33,13 +33,21 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.8
+## Latest release: 1.10.22.9
 
-- Clicking an older small window (such as About behind Latest version) now brings it forward and keeps it there, instead of flashing and falling back.
-- Closing a small window passes the focus to the next one in front, so the others stay put.
-- About says Terms agreed on with the day you agreed. A machine that agreed before the day was recorded shows the version of the terms instead.
+- The installer now puts TANDUL in a folder called TANDUL, not @tanduldesktop.
+- About, Update and Terms windows now step out of the way when you switch to another program, and come back when you return to TANDUL.
+- About shows a small line of how fast the server has been answering, and Change server sits under it. Node and system details are gone from the card (Copy diagnostics still has them).
+- Terms line says Terms accepted with the version when the day you agreed was never recorded.
 
 ## All changes
+
+## 1.10.22.9
+
+- The installer now puts TANDUL in a folder called TANDUL, not @tanduldesktop.
+- About, Update and Terms windows now step out of the way when you switch to another program, and come back when you return to TANDUL.
+- About shows a small line of how fast the server has been answering, and Change server sits under it. Node and system details are gone from the card (Copy diagnostics still has them).
+- Terms line says Terms accepted with the version when the day you agreed was never recorded.
 
 ## 1.10.22.8
 
