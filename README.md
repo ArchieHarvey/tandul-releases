@@ -33,12 +33,15 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.11
+## Latest release: 1.10.22.12
 
-- The shell now keeps a quiet record of how fast the server has been answering. About opens with the last two minutes already drawn, and Copy diagnostics says when it was slow or did not answer.
-- It only checks while the window is showing and the machine is awake, and keeps nothing on disk.
+- Point at the server-speed graph in About to see the time and the response of any check, including ones that got no answer.
 
 ## All changes
+
+## 1.10.22.12
+
+- Point at the server-speed graph in About to see the time and the response of any check, including ones that got no answer.
 
 ## 1.10.22.11
 
