@@ -33,13 +33,21 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.3
+## Latest release: 1.10.22.4
 
-- If the shop's server is down and answers with an error page (such as a tunnel error), TANDUL shows the reconnecting screen and opens the till again by itself when the server is back.
-- When checking for updates fails, the window now says why (no internet, GitHub not answering, update files not ready, or unexpected), with Show details and Copy diagnostics.
-- The start-up animation is skipped only by clicking Click to skip (or pressing Esc), not by clicking anywhere.
+- The setup screen is simpler: choose the till or the admin panel, and a line shows exactly where this machine will connect (for example pos.tandul.in). Click the address to type a different server.
+- Connect checks the shop before saving anything, says plainly what went wrong, and no longer leaves a wrong address saved after a failed try.
+- The Test connection button is gone, since Connect does the same check.
+- On the start-up animation, Click to skip is now plain text, and the dots after Connecting to the shop have more space.
 
 ## All changes
+
+## 1.10.22.4
+
+- The setup screen is simpler: choose the till or the admin panel, and a line shows exactly where this machine will connect (for example pos.tandul.in). Click the address to type a different server.
+- Connect checks the shop before saving anything, says plainly what went wrong, and no longer leaves a wrong address saved after a failed try.
+- The Test connection button is gone, since Connect does the same check.
+- On the start-up animation, Click to skip is now plain text, and the dots after Connecting to the shop have more space.
 
 ## 1.10.22.3
 
