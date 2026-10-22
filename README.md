@@ -33,14 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.5
+## Latest release: 1.10.22.6
 
-- The small windows now stack properly: a window opened from another stays in front of it, a click on the dimmed till brings forward the right one, and all of them step back when you switch to another program.
-- In About, Change server is now a small link next to the address, and the three buttons sit on one row.
-- The round marks in the update windows are centred.
-- The taskbar and its right-click list now say TANDUL instead of an old description, and the old cached name is cleared once.
+- The browser's developer tools are locked in the installed app, and starting it with a remote-debugging switch is refused.
+- In About, the Connected to line is tidier: the speed on the right and the address on its own line, with the reason shown under it when the shop cannot be reached.
 
 ## All changes
+
+## 1.10.22.6
+
+- The browser's developer tools are locked in the installed app, and starting it with a remote-debugging switch is refused.
+- In About, the Connected to line is tidier: the speed on the right and the address on its own line, with the reason shown under it when the shop cannot be reached.
 
 ## 1.10.22.5
 
