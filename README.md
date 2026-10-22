@@ -33,12 +33,15 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.6
+## Latest release: 1.10.22.7
 
-- The browser's developer tools are locked in the installed app, and starting it with a remote-debugging switch is refused.
-- In About, the Connected to line is tidier: the speed on the right and the address on its own line, with the reason shown under it when the shop cannot be reached.
+- Change server now opens the setup screen with the address this machine already uses, instead of resetting to the default. The saved address is only replaced once a new one has been checked and works.
 
 ## All changes
+
+## 1.10.22.7
+
+- Change server now opens the setup screen with the address this machine already uses, instead of resetting to the default. The saved address is only replaced once a new one has been checked and works.
 
 ## 1.10.22.6
 
