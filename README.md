@@ -33,14 +33,17 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.9
+## Latest release: 1.10.22.11
 
-- The installer now puts TANDUL in a folder called TANDUL, not @tanduldesktop.
-- About, Update and Terms windows now step out of the way when you switch to another program, and come back when you return to TANDUL.
-- About shows a small line of how fast the server has been answering, and Change server sits under it. Node and system details are gone from the card (Copy diagnostics still has them).
-- Terms line says Terms accepted with the version when the day you agreed was never recorded.
+- The shell now keeps a quiet record of how fast the server has been answering. About opens with the last two minutes already drawn, and Copy diagnostics says when it was slow or did not answer.
+- It only checks while the window is showing and the machine is awake, and keeps nothing on disk.
 
 ## All changes
+
+## 1.10.22.11
+
+- The shell now keeps a quiet record of how fast the server has been answering. About opens with the last two minutes already drawn, and Copy diagnostics says when it was slow or did not answer.
+- It only checks while the window is showing and the machine is awake, and keeps nothing on disk.
 
 ## 1.10.22.9
 
