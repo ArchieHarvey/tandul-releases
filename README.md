@@ -33,9 +33,9 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.22.12
+## Latest release: 1.10.23.1
 
-- Point at the server-speed graph in About to see the time and the response of any check, including ones that got no answer.
+No notes for this release.
 
 ## All changes
 
