@@ -33,7 +33,7 @@ What the app connects to: the shop's own server, and GitHub to look for and down
 the computer's internet address). There is no analytics, tracking or crash reporting, and nothing about your
 shop is sent to GitHub.
 
-## Latest release: 1.10.23.1
+## Latest release: 1.10.25.1
 
 No notes for this release.
 
